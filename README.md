@@ -1,4 +1,4 @@
-Esta es una aplicacion para asignar un amigo secreto.
+Esta es una aplicacion para asignar un amigo secreto. Se llama "Amigo Secreto".
 
 Instrucciones:
 
@@ -13,3 +13,4 @@ Instrucciones:
 4. Resultado final
 
    ![](./assets/resultado.png)
+
